@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif;
+  background-image: url(./images/gta-sa.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.owl-carousel {
+  max-height: 50%;
+  max-width: auto;
+}
+
+.slide-show {
+  background: rgb(126, 20, 20);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(0px);
+  -webkit-backdrop-filter: blur(0px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  height: 300px;
+  width: 600px;
+  margin-top: 200px;
+}
+
+.slide-image {
+  max-width: 18%;
+  height: auto;
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
+
+h2 {
+  text-align: center;
+  color: white;
+}
+
+h4 {
+  text-align: center;
+  color: white;
+}
+
+div p {
+  text-align: center;
+  color: white;
+  word-wrap: break-word;
+}
