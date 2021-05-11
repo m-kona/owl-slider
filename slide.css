@@ -47,8 +47,14 @@ h4 {
   color: white;
 }
 
-div p {
-  text-align: center;
+.slide-show q {
+  align-items: center;
   color: white;
-  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+.slide-quote {
+  display: flex;
+  text-align: center;
+  justify-content: center;
 }
